@@ -1,6 +1,6 @@
 # Hi there, I'm Alper Kaan Mazinoğlu! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=kullaniciadi)
+![Profile Views](https://komarev.com/ghpvc/?username=alperkaanmz)
 
 I am passionate about the convergence of Software Art and Science, exploring the creative and analytical aspects of the digital world. 
 Currently, I am pursuing a degree in Software Engineering at Bahçeşehir University in Istanbul.
@@ -35,5 +35,5 @@ I'm always open to connecting with fellow developers, sharing ideas, and explori
 
 When I'm not immersed in coding, you can often find me losing track of time while playing video games or enjoying the latest sci-fi movies and anime series!
 
-[![GitHub Followers](https://img.shields.io/github/followers/kullaniciadi?style=social)](https://github.com/kullaniciadi)
-[![Twitter Follow](https://img.shields.io/twitter/follow/twitterkullaniciadi?style=social)](https://twitter.com/twitterkullaniciadi)
+[![GitHub Followers](https://img.shields.io/github/followers/alperkaanmz?style=social)](https://github.com/alperkaanmz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alperkaanmz?style=social)](https://twitter.com/alperkaanmz)
