@@ -7,7 +7,7 @@ Currently, I am pursuing a degree in Software Engineering at Bahçeşehir Univer
 
 ## 🔭 What I'm up to
 
-- 📚 Studying Software Engineering at Bahçeşehir University.
+- 📚 New Graduated from Software Engineering at Bahçeşehir University.
 - 💻 Taking a Java programming course and engaging in hands-on projects.
 - 🎓 Working on practical software development during my internship, where I'm involved in C# projects.
 
