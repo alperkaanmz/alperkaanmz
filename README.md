@@ -1,25 +1,35 @@
-# Hi there, I'm Alper Kaan! 👋
+# Hi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alperkaanmz)
 
-### 🔭  About me
-I’m a software engineering graduate  🎓 who enjoys turning ideas into code — and code into something people can actually use.
+AI developer. Building things that actually ship.
 
-## 🌱 I'm currently learning
-These days I’m exploring **Python, AI, and automation** 🐍🤖.  
-Most days I’m prototyping small stuff: training a model, hooking up simple APIs, or building a tiny bot.  
-I try things, read the logs, tweak, repeat 🔧. If it works, I ship it; if it doesn’t, I keep the lesson.
+---
 
-## 🚀 Goals for the Future
-I’m especially interested in the mix of **AI + creativity** — building tools, apps, *vibe coding*, or whatever else sparks curiosity and solves real problems ⚡.  
-I like working with people who are as excited about “what’s possible” as I am ✨.
+### What I Do
 
-Outside of code, I’m usually into sci-fi 🎬, games 🎮, or happily staying up till 3–4 AM researching whatever topic I’m obsessed with that week.
+I co-build **[hrai.com.tr](https://hrai.com.tr)** — an AI-powered HR platform that analyzes video interviews using emotion detection, fraud detection, MBTI assessment, and automated reporting. Currently in production with enterprise clients.
 
-## 📫 Get in Touch
+Stack: `Next.js` · `.NET` · `MSSQL` · various AI/ML APIs
 
-Feel free to reach out to me through GitHub. 
-I'm always open to connecting with fellow developers, sharing ideas, and exploring potential collaborations.
+---
+
+### What I'm Into Right Now
+
+- Expanding the HR platform: live AI interview simulations, regional analytics, WhatsApp Business integration
+- Anything at the intersection of **AI + real products** — not demos, actual tools people use
+- Building a **Kotlin Android app** as a side project
+
+---
+
+### How I Work
+
+I prototype fast, read the logs, and ship when it's good enough. I'm more interested in what works than what's theoretically elegant. If a problem is interesting, I'll stay up until 4AM on it — if it's not, I'll automate it.
+
+---
+
+### Get in Touch
 
 [![GitHub Followers](https://img.shields.io/github/followers/alperkaanmz?style=social)](https://github.com/alperkaanmz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alperkaanmz?style=social)](https://twitter.com/alperkaanmz)
+
+Open to interesting conversations, collaborations, or just talking shop.
