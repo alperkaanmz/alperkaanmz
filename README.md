@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alperkaanmz)
 
-AI developer. Building things that actually ship.
+Software Engineer. Building things that actually ship.
 
 ---
 
@@ -16,7 +16,7 @@ Stack: `Next.js` · `.NET` · `MSSQL` · various AI/ML APIs
 
 ### What I'm Into Right Now
 
-- Expanding the HR platform: live AI interview simulations, regional analytics, WhatsApp Business integration
+- Expanding the HR platform: live AI interview simulations, regional analytics etc.
 - Anything at the intersection of **AI + real products** — not demos, actual tools people use
 - Building a **Kotlin Android app** as a side project
 
