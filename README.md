@@ -8,17 +8,17 @@ Software Engineer. Building things that actually ship.
 
 ### What I Do
 
-I co-build **[hrai.com.tr](https://hrai.com.tr)** — an AI-powered HR platform that analyzes video interviews using emotion detection, fraud detection, MBTI assessment, and automated reporting. Currently in production with enterprise clients.
+I co-build **[hrai.com.tr](https://hrai.com.tr)** — an AI-powered HR platform that analyzes video interviews using local AI models and automated reporting. Currently in production with enterprise clients.
 
-Stack: `Next.js` · `.NET` · `MSSQL` · various AI/ML APIs
+Stack: `.NET` · `Spring` · `Next.js` · `MSSQL & PostgreSQL` · various AI/ML APIs and tools.
 
 ---
 
 ### What I'm Into Right Now
 
-- Expanding the HR platform: live AI interview simulations, regional analytics etc.
+- Expanding the HR platform: live AI interview simulations, new services + regional analytics etc.
 - Anything at the intersection of **AI + real products** — not demos, actual tools people use
-- Building a **Kotlin Android app** as a side project
+- Building a **Kotlin Android app** as a side project. check : **[mazinsoft.com](https://mazinsoft.com)**
 
 ---
 
